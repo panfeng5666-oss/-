@@ -55,7 +55,9 @@ Architectural interior photograph of a 1-square-meter curated coffee merchandise
 
 ## 知识库依托
 
-见 `knowledge/04-空间展陈与场景化设计.md`
+见 `knowledge/04-空间展陈与场景化设计.md`（策展 4 份 + 书店方法论 3 份）。
+
+⚠️ 缺 VMD 专著与商业照明手册 —— 本文第 2、4 节的点位与照明参数属经验值，施工前请与灯光顾问复核。
 
 ## 参考案例
 
