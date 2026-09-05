@@ -28,4 +28,9 @@
 
 - 新 Skill → `.claude/skills/<slug>/SKILL.md`，frontmatter 必须有 `name` 与 `description`（description 要写清触发关键词）。
 - 新知识库 → `knowledge/<编号>-<名称>.md`，同步更新 `knowledge/README.md` 索引表。
-- 新案例 → `cases/<编号>-<产品名>.md`，标注调用了哪些系统。
+- 新的**真实项目**案例 → `cases/<编号>-<产品名>.md`，文件头标注项目背景与调用了哪些系统。
+- **功能测试产出** → `samples/`，文件头必须标注"测试样例、产品为虚构命题、数字为演示值"。
+
+## 关于 samples/
+
+`samples/` 里的两份是早期功能测试，产品是虚构的。**其中的 BOM、定价、毛利率、公差与 ΔE 阈值全部是演示值**，不得在真实项目中引用，也不得作为定价或成本的参照 —— 需要对标时查 `knowledge/09` 的企业案例。引用样例时只引其交付结构，不引其数字。

@@ -66,6 +66,8 @@ Architectural interior photograph of a 1-square-meter curated coffee merchandise
 - **照明参数已有方法论依据，但未对国标** —— Karlen/Benya 是美制体系。对国内施工方交底时，照度数值应引 `GB 50034《建筑照明设计标准》`（商店建筑）或 `GB/T 23863《博物馆照明设计规范》`（展品照明）复核，本库尚未收录这两份标准。
 - **VP / PP / IP 是日系 VMD 术语**，本库三本 VMD 均为欧美体系（摩根用 window display / in-store display，Ebster 用 store atmospherics）。三层逻辑通用，但对外提案标注出处时，这组缩写在三本里找不到原词。
 
-## 参考案例
+## 参考样例
 
-- `cases/02-海盐冷萃咖啡豆与粗陶随行杯礼盒.md`（模块四）
+- `samples/02-测试-海盐冷萃咖啡豆与粗陶随行杯礼盒.md`（模块四）
+
+⚠️ 这是**功能测试样例，产品为虚构命题**。只参照它的交付结构与颗粒度；其中的具体数字均为演示值，不可作为真实项目的参照。真实项目沉淀在 `cases/`。
