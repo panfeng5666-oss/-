@@ -52,12 +52,17 @@ Architectural interior photograph of a 1-square-meter curated coffee merchandise
 3. **【照明系统参数表】**：色温、显色指数 Ra、环境照度与重点照度、反差比、投射角度。
 4. **【动线与触碰体验设计】**：减速过渡区、视线引导、试握位与防拥堵规范。
 5. **【空间效果图生图 Prompt】**：结构化 Prompt（含相机、光线与参数）。
+6. **【陈列维护与成效衡量】**：换陈周期、日常维护标准、预算范围，以及成效指标（触碰率、停留时长、连带率）—— 依据摩根书中"衡量成效"与"橱窗的标准、维护与预算"两章，把陈列从审美变成可考核的事。
 
 ## 知识库依托
 
-见 `knowledge/04-空间展陈与场景化设计.md`（策展 4 份 + 书店方法论 3 份）。
+见 `knowledge/04-空间展陈与场景化设计.md`（VMD 3 份 + 策展 4 份 + 书店方法论 3 份）。
 
-⚠️ 缺 VMD 专著与商业照明手册 —— 本文第 2、4 节的点位与照明参数属经验值，施工前请与灯光顾问复核。
+第 2、3 节（点位体系与道具陈列）的出处：托尼·摩根《视觉营销：橱窗与店面陈列设计》、Pegler & Kong《Visual Merchandising and Display》、Ebster & Garaus《Store Design and Visual Merchandising》。第 1 节的策展逻辑取自《策展人手册》与《策展哲学》。
+
+⚠️ **两处注意**：
+- **照明参数（色温 / Ra / Lux / 反差比 / 投射角度）仍属经验值** —— 尚无照明工程手册，施工前请与灯光顾问复核。摩根书中有"灯光"一节可作零售视角的参考。
+- **VP / PP / IP 是日系 VMD 术语**，本库三本 VMD 均为欧美体系（摩根用 window display / in-store display，Ebster 用 store atmospherics）。三层逻辑通用，但对外提案标注出处时，这组缩写在三本里找不到原词。
 
 ## 参考案例
 
