@@ -60,8 +60,10 @@ Architectural interior photograph of a 1-square-meter curated coffee merchandise
 
 第 2、3 节（点位体系与道具陈列）的出处：托尼·摩根《视觉营销：橱窗与店面陈列设计》、Pegler & Kong《Visual Merchandising and Display》、Ebster & Garaus《Store Design and Visual Merchandising》。第 1 节的策展逻辑取自《策展人手册》与《策展哲学》。
 
+照明工程依据：Karlen & Benya《Lighting Design Basics》（照度、色温、CRI、配光角与灯具选型）。
+
 ⚠️ **两处注意**：
-- **照明参数（色温 / Ra / Lux / 反差比 / 投射角度）仍属经验值** —— 尚无照明工程手册，施工前请与灯光顾问复核。摩根书中有"灯光"一节可作零售视角的参考。
+- **照明参数已有方法论依据，但未对国标** —— Karlen/Benya 是美制体系。对国内施工方交底时，照度数值应引 `GB 50034《建筑照明设计标准》`（商店建筑）或 `GB/T 23863《博物馆照明设计规范》`（展品照明）复核，本库尚未收录这两份标准。
 - **VP / PP / IP 是日系 VMD 术语**，本库三本 VMD 均为欧美体系（摩根用 window display / in-store display，Ebster 用 store atmospherics）。三层逻辑通用，但对外提案标注出处时，这组缩写在三本里找不到原词。
 
 ## 参考案例
