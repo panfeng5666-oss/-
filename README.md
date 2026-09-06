@@ -47,6 +47,7 @@
 ```
 .claude/skills/          7 个 Skill（Claude Code 自动加载）
 knowledge/               10 个知识库索引与书目清单（不含受版权保护的原文）
+doctrine/                创作纲领 —— 贯穿全部 Skill 的方法论底座（最高优先级）
 matrix/                  母体条目库 —— 从知识库 10 提炼的可调用事实条目
 samples/                 功能测试样例（产品为虚构命题，数字为演示值）
   01-测试-海盐耐候红钢镇纸.md              单系统跑通测试
